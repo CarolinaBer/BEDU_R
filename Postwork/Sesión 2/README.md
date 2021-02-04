@@ -11,7 +11,7 @@ Desarrollo
 4.    Asegúrate de que los elementos de las columnas correspondientes de los nuevos data frames sean del mismo tipo (Hint 1: usa as.Date y mutate para arreglar las fechas). Con ayuda de la función rbind forma un único data frame que contenga las seis columnas mencionadas en el punto 3 (Hint 2: la función do.call podría ser utilizada).
 
 ## :pushpin: Solución:
-
+```R
 # Postwork sesión 2 : 
 
 #Cargamos el paquete dplyr
@@ -22,7 +22,7 @@ suppressWarnings(suppressMessages(library(dplyr)))
 #en el siguiente enlace: https://www.football-data.co.uk/spainm.php
 
 # ---- Solución --------
-```R
+
 #Importamos los archivos de la url a .csv
 fut.17_18 <- "https://www.football-data.co.uk/mmz4281/1718/SP1.csv"
 fut.18_19 <- "https://www.football-data.co.uk/mmz4281/1819/SP1.csv"
