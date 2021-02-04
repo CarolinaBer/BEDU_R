@@ -10,6 +10,23 @@ Utilizando el manejador de BDD Mongodb Compass (previamente instalado), deberás
 
 -Por último, no olvides cerrar la conexión con la BDD.
 
+## Solución
+Es útil recordar lo que aprendimos en el módulo pasado del uso de MongoDB Compass.La consulta de los goles del Real Madrid se muestra como:
+![imagen](img/query.png)
+
+Adicionalmente podemos corroborar mediante la conexión a MongoDB Compass que lo que relizamos en R se ve reflejado. 
+
+La creación de la bd match_test y la colección match.Además de ya haber alojado el fichero.
+
+![imagen](img/match_mongo.png)
+
+La actualización de los datos con las jugadas faltantes:
+
+![imagen](img/match_actual.png)
+![imagen](img/match_2015.png)
+
+
+El código utilizado fue el siguiente:
 ```R
 #Postwork 7. Alojar el fichero a un local host de MongoDB.
 
