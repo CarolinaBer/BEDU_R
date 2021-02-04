@@ -15,7 +15,7 @@ Posteriormente elabora tablas de frecuencias relativas para estimar las siguient
     La probabilidad (conjunta) de que el equipo que juega en casa anote x goles y el equipo que juega como visitante anote y goles (x = 0, 1, 2, ..., y = 0, 1, 2, ...)
 
 ## :pushpin: Solución.
- ´´´
+ ´´´R
  #Postwork Sesión 1. Liga española de fútbol.
 
 
