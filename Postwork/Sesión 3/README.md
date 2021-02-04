@@ -24,3 +24,6 @@ Ahora graficaremos probabilidades (estimadas) marginales y conjuntas para el nú
    #### - Un HeatMap para las probabilidades conjuntas estimadas de los números de goles que anotan el equipo de casa y el equipo visitante en un partido.
    ![imagen](img/heatmap_m.png)
    ![imagen](img/heatmap1.png)
+### NOTA: En este caso de las segundas gráficas se realizaron con el objetivo de visualizar el gradiente de probabilidades reflejado en el gráfico de barras. En el caso del heatmap se escoge una paleta de colores nueva para lograr apreciar lo mejor posible las probabilidades más pequeñas.
+
+El código utilizado es el siguiente:
