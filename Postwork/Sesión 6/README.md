@@ -12,6 +12,10 @@ Importa el conjunto de datos match.data.csv a R y realiza lo siguiente:
 
     4.Grafica la serie de tiempo.
 
+Del resultado del códigi obtenemos la siguiente serie de tiempo para los goles hasta diciembre de 2019:
+![imagen](ts_S6.png)
+
+El código es el siguiente:
 ```R
 #Postwork 6. Series de tiempo.
 
