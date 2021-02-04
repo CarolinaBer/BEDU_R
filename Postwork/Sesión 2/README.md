@@ -90,4 +90,5 @@ df.fut <- do.call(rbind, sel.fut) #combinando por renglones
 dim(df.fut)
 ```
 Con ``` View(df.fut) ``` podemos visualizar el nuevo dataframe creado:
+
 ![imagen](df.fut.png)
