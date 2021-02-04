@@ -89,4 +89,4 @@ lapply(sel.fut, str)
 df.fut <- do.call(rbind, sel.fut) #combinando por renglones
 dim(df.fut)
 ```
-Con ```R View(df.fut) ``` podemos visualizar el nuevo dataframe creado
+Con ``` View(df.fut) ``` podemos visualizar el nuevo dataframe creado
