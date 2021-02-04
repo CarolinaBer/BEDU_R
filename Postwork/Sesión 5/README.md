@@ -11,6 +11,14 @@ Desarrollo
 4.Finalmente estima las probabilidades de los eventos, el equipo de casa gana, el equipo visitante gana o el resultado es un empate para los partidos que se jugaron en la última fecha del vector de fechas fecha. Esto lo puedes hacer con ayuda de la función predict y usando como argumentos ranking y fecha[n] que deberá especificar en date.
 
 
+# Resultados.
+
+Un vistazo de la tabla SmallData:
+![imagen](img/SmallData.png)
+
+Además el ranking de los partidos y la predicción de los últimos partidos.
+![imagen](img/P5_est.png)
+
 El código para la solución es el siguiente:
 ```R
 #Postwork 5. Regresión lineal y clasificación. 
