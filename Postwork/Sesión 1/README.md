@@ -108,3 +108,7 @@ proba.conj <- table.conj/dimen #(opcionalmente se puede usar prop.table(table.co
 proba.conj
 
 ```
+
+Las consultas de las probabilidades marginal local, visitante y conjunta se ven como:
+
+![imagen](tablas_postwork1.png)
