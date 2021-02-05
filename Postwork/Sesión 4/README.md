@@ -1,4 +1,9 @@
-## Postwork Sesión 4. Algunas distribuciones, teorema central del límite y contraste de hipótesis
+## Postwork Sesión 4. Algunas distribuciones, teorema central del límite y contraste de hipótesis.
+
+## Integrantes equipo 17:
+- Bernal Rodríguez Carolina. 
+- Velazquez Valdez Carlos Alejandro.
+- Zamudio Guzmán Linette. 
 
 Desarrollo
 
